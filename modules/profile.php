@@ -81,6 +81,16 @@
                     <div class="col-lg-3 col-md-4 label">Email</div>
                     <div class="col-lg-9 col-md-8">maso.buong.coc@phinmaed.com</div>
                   </div>
+<<<<<<< HEAD
+=======
+                  <nav>
+                    <ul>
+                      <li><a href="modules/paris.php">paris</a></li>
+                        <li><a href="modules/london.php">london</a></li>
+                          <li><a href="modules/tokyo.php">tokyo</a></li>
+                    </ul>
+                  </nav>
+>>>>>>> fc45c36 (Initial commit)
 
                 </div>
 
